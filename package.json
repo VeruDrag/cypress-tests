@@ -1,0 +1,23 @@
+{
+  "name": "cypress-tests",
+  "version": "1.0.0",
+  "main": "cypress.config.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/VeruDrag/cypress-tests.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/VeruDrag/cypress-tests/issues"
+  },
+  "homepage": "https://github.com/VeruDrag/cypress-tests#readme",
+  "description": "",
+  "devDependencies": {
+    "cypress": "^14.5.0"
+  }
+}
