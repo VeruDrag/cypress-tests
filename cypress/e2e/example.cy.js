@@ -4,3 +4,4 @@ describe('Návštěva example stránky', () => {
     cy.contains('Kitchen Sink');
   });
 });
+// Test změna pro ověření CI
